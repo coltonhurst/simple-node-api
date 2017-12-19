@@ -18,11 +18,11 @@
   },
   "homepage": "https://github.com/coltonhurst/simple-node-api#readme",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "mongodb": "^3.0.0-rc0"
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.16"
   },
   "devDependencies": {
-    "nodemon": "^1.13.3"
+    "nodemon": "^1.11.0"
   }
 }
