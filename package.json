@@ -1,0 +1,28 @@
+{
+  "name": "notable",
+  "version": "1.0.0",
+  "description": "A simple notes api.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coltonhurst/simple-node-api.git"
+  },
+  "author": "Colton Hurst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coltonhurst/simple-node-api/issues"
+  },
+  "homepage": "https://github.com/coltonhurst/simple-node-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.0-rc0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.13.3"
+  }
+}
